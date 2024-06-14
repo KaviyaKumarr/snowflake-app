@@ -1,5 +1,5 @@
 import streamlit as st
-from snowflake.snowpark import Session
+from snowflake.connector
 
 st.title('❄️ How to connect Streamlit to a Snowflake database')
 
