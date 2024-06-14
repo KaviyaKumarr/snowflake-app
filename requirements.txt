@@ -14,7 +14,7 @@ contourpy==1.2.1
 cryptography==42.0.8
 cycler==0.12.1
 distlib==0.3.7
-dlib 
+dlib
 filelock==3.12.2
 flatbuffers==24.3.25
 fonttools==4.53.0
@@ -74,7 +74,7 @@ tenacity==8.3.0
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.16.1
-tensorflow-intel>=2.16.1,<3.0.0
+tensorflow-intel==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.5.0
